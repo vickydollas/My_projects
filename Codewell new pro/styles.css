@@ -11,8 +11,7 @@ body{
 #container{
     background-image: url('images/option-2.webp');
     background-color: black;
-    min-width: 1440px
-    /* margin: 0 auto; */
+    min-width: 1440px;
     box-sizing: border-box;
 }
 .logostyling-brand{
@@ -177,10 +176,6 @@ footer p{
     list-style-type: none;
     font-size: 1rem;
     padding: 0 2rem;
-}
-#dropdown{
-    /* opacity: 1; */
-    /* width: 80%; */
 }
 .menu-btn li{
     margin: 0 40px 0 0;
